@@ -7,4 +7,5 @@ https://presenter.ahaslides.com/share/apresentacao-pessoal-1771027138783-l3w404g
 <img width="963" height="548" alt="image" src="https://github.com/user-attachments/assets/12fe406b-4a16-4758-b79e-a580bf71f086" />
 
 ## Projeto API (Banco de Dados) Vestido de Noiva
-Projeto desenvolvido 
+Projeto desenvolvido para preparação da API, com foco Backlog do produto
+
