@@ -11,3 +11,5 @@ Projeto desenvolvido para preparação da API, com foco Backlog do produto
 
 ## Aula excel com utilização de gráfico dinâmico
 https://github.com/240186/Fontes-de-Informa-es-e-banco-de-dados/blob/main/despesa_funcaoB.xlsx
+
+https://github.com/240186/Fontes-de-Informa-es-e-banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20221724.png
