@@ -9,6 +9,8 @@ https://presenter.ahaslides.com/share/apresentacao-pessoal-1771027138783-l3w404g
 ## Projeto API (Banco de Dados) Vestido de Noiva
 Projeto desenvolvido para preparação da API, com foco Backlog do produto
 
+<img width="1219" height="623" alt="image" src="https://github.com/user-attachments/assets/94b26e6f-8d6c-49ba-8264-e87c5c3f6eb8" />
+
 ## Aula excel com utilização de gráfico dinâmico
 https://github.com/240186/Fontes-de-Informa-es-e-banco-de-dados/blob/main/despesa_funcaoB.xlsx
 
