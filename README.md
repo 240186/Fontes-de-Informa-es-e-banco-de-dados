@@ -19,3 +19,6 @@ https://github.com/240186/Fontes-de-Informa-es-e-banco-de-dados/blob/main/despes
 https://github.com/240186/Fontes-de-Informa-es-e-banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20221724.png
 ## Aula dia 10/04/2026, aplicação das fórmulas - SOMASES - MÁXIMO - CORRESP ´ÍNDICE - SOMASE - SOMA
 https://docs.google.com/spreadsheets/d/1NNKlXiMgO9DysRlIfQXthmwTYlZLHd3h/edit?usp=sharing&ouid=114790479006019233900&rtpof=true&sd=true
+
+## Aula dia 10/04/2026, aplicação das fórmulas - SOMASES - MÁXIMO - CORRESP ´ÍNDICE - SOMASE - SOMA
+
