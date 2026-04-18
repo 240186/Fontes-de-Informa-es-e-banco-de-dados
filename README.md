@@ -15,6 +15,8 @@ https://drive.google.com/file/d/1uyTHncwz8Snf3fpG8sbZ6gt7W1GIImrz/view?usp=shari
 
 ## Aula excel com utilização de gráfico dinâmico
 https://github.com/240186/Fontes-de-Informa-es-e-banco-de-dados/blob/main/despesa_funcaoB.xlsx
+[Todos.os.ensinamentos.xlsx](https://github.com/user-attachments/files/26845518/Todos.os.ensinamentos.xlsx)
+
 
 https://github.com/240186/Fontes-de-Informa-es-e-banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20221724.png
 ## Aula dia 10/04/2026, aplicação das fórmulas - SOMASES - MÁXIMO - CORRESP ´ÍNDICE - SOMASE - SOMA
