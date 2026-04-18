@@ -16,6 +16,7 @@ https://drive.google.com/file/d/1uyTHncwz8Snf3fpG8sbZ6gt7W1GIImrz/view?usp=shari
 
 ## Aula excel com utilização de gráfico dinâmico
 https://github.com/240186/Fontes-de-Informa-es-e-banco-de-dados/blob/main/despesa_funcaoB.xlsx
+<img width="1031" height="611" alt="image" src="https://github.com/user-attachments/assets/03c5b2a9-77dc-49a5-9f5c-840d270c41ce" />
 
 
 [Todos.os.ensinamentos.xlsx](https://github.com/user-attachments/files/26845518/Todos.os.ensinamentos.xlsx)
