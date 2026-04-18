@@ -27,6 +27,7 @@ https://docs.google.com/spreadsheets/d/1NNKlXiMgO9DysRlIfQXthmwTYlZLHd3h/edit?us
 
 
 [pessoas_02-2026 (1).xlsx](https://github.com/user-attachments/files/26845715/pessoas_02-2026.1.xlsx)
+<img width="1096" height="613" alt="image" src="https://github.com/user-attachments/assets/a9a96f3f-2c13-43fe-a5c7-2cf3793105ad" />
 
 
 
