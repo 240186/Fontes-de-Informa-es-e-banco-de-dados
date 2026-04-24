@@ -31,7 +31,7 @@ https://github.com/240186/Fontes-de-Informa-es-e-banco-de-dados/blob/main/Captur
 ## Aula dia 10/04/2026, aplicação das fórmulas - SOMASES - MÁXIMO - CORRESP ´ÍNDICE - SOMASE - SOMA
 https://docs.google.com/spreadsheets/d/1NNKlXiMgO9DysRlIfQXthmwTYlZLHd3h/edit?usp=sharing&ouid=114790479006019233900&rtpof=true&sd=true
 
-
+## Aula dia 23/04/2026, Inicialização Power Bi
 [pessoas_02-2026 (1).xlsx](https://github.com/user-attachments/files/26845715/pessoas_02-2026.1.xlsx)
 <img width="1096" height="613" alt="image" src="https://github.com/user-attachments/assets/a9a96f3f-2c13-43fe-a5c7-2cf3793105ad" />
 
