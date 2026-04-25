@@ -35,8 +35,13 @@ https://docs.google.com/spreadsheets/d/1NNKlXiMgO9DysRlIfQXthmwTYlZLHd3h/edit?us
 <img width="1096" height="613" alt="image" src="https://github.com/user-attachments/assets/a9a96f3f-2c13-43fe-a5c7-2cf3793105ad" />
 
 ## Aula dia 23/04/2026, Inicialização Power Bi
+<img width="959" height="593" alt="image" src="https://github.com/user-attachments/assets/a0f27b2b-f6ff-4ee1-bb90-4e0aa7d901a6" />
 
+## Aula dia 24/04/2026, Conjunto de Dados Abertos e Gráficos SP
 
+<img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/b5f3ca7c-a562-4df0-b39f-26ad64d8ecb9" />
+
+<img width="955" height="599" alt="image" src="https://github.com/user-attachments/assets/c512c4c0-bf36-4cf4-94e1-51cdaad9c39d" />
 
 
 
