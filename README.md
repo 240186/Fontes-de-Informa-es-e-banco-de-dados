@@ -50,4 +50,6 @@ A) Em qual ano e mês houve o menor saldo de movimentação? E o maior?
 1- Maior Saldo - Ano 2025 Mês 2
 <img width="715" height="398" alt="image" src="https://github.com/user-attachments/assets/358ba4ad-6caa-4fbd-85c8-b9a76a499462" />
 
+2- Menor Saldo - Ano 2020 Mês 4
+<img width="711" height="399" alt="image" src="https://github.com/user-attachments/assets/5571cf72-2e30-4e97-b797-5da13abfbd69" />
 
