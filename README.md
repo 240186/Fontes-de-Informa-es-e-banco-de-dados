@@ -43,7 +43,9 @@ https://docs.google.com/spreadsheets/d/1NNKlXiMgO9DysRlIfQXthmwTYlZLHd3h/edit?us
 
 <img width="955" height="599" alt="image" src="https://github.com/user-attachments/assets/c512c4c0-bf36-4cf4-94e1-51cdaad9c39d" />
 
+## Aula dia 08/05/2026, Conjunto de Dados Abertos e Gráficos SP Power BI, repondendo as perguntas
 
+A) Em qual ano e mês houve o menor saldo de movimentação? E o maior?
 
 
 
