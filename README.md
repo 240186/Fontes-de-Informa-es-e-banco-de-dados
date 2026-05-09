@@ -47,5 +47,7 @@ https://docs.google.com/spreadsheets/d/1NNKlXiMgO9DysRlIfQXthmwTYlZLHd3h/edit?us
 
 A) Em qual ano e mês houve o menor saldo de movimentação? E o maior?
 
+1- Maior Saldo
+<img width="715" height="398" alt="image" src="https://github.com/user-attachments/assets/358ba4ad-6caa-4fbd-85c8-b9a76a499462" />
 
 
