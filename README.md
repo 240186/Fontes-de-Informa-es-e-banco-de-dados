@@ -53,7 +53,9 @@ A) Em qual ano e mês houve o menor saldo de movimentação? E o maior?
 2- Menor Saldo - Ano 2020 Mês 4
 <img width="711" height="399" alt="image" src="https://github.com/user-attachments/assets/5571cf72-2e30-4e97-b797-5da13abfbd69" />
 
-Kangle | Ice Cream
+---
+
+# Kangle | Ice Cream
 
 14/05/2026
 
@@ -61,8 +63,9 @@ Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Ex
 
 <img width="904" height="552" alt="image" src="https://github.com/user-attachments/assets/c87feb6d-40ad-475f-86e8-05d44345e2af" />
 
+---
 
-Kangle | Icre Cream Sales Temperature
+# Kangle | Icre Cream Sales Temperature
 
 15/05/2026
 
@@ -70,7 +73,9 @@ Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Go
 
 <img width="904" height="552" alt="image" src="https://github.com/user-attachments/assets/a9b7e050-2126-4a08-8d67-53bf47aa9696" />
 
-Kangle | Beer Consumption in São Paulo
+---
+
+# Kangle | Beer Consumption in São Paulo
 
 15/05/2026
 
@@ -79,6 +84,10 @@ Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Go
 <img width="904" height="552" alt="image" src="https://github.com/user-attachments/assets/39b4287a-9f26-4436-9ef2-fe3ef80ef95b" />
 
 <img width="904" height="552" alt="image" src="https://github.com/user-attachments/assets/f8cd0a74-676f-40f3-9bb8-ef11d47dd482" />
+
+---
+
+# Kangle | Beer Consumption in São Paulo and Ice Cream
 
 22/05/2026
 
