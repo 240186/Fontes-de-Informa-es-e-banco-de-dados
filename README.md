@@ -57,8 +57,9 @@ Kangle | Ice Cream
 
 14/05/2026
 
-- Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Excel.
+Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Excel.
 
+<img width="904" height="552" alt="image" src="https://github.com/user-attachments/assets/c87feb6d-40ad-475f-86e8-05d44345e2af" />
 
 
 Kangle | Icre Cream Sales Temperature
@@ -67,7 +68,7 @@ Kangle | Icre Cream Sales Temperature
 
 Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Google Colab.
 
-
+<img width="904" height="552" alt="image" src="https://github.com/user-attachments/assets/a9b7e050-2126-4a08-8d67-53bf47aa9696" />
 
 Kangle | Beer Consumption in São Paulo
 
@@ -75,9 +76,12 @@ Kangle | Beer Consumption in São Paulo
 
 Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Google Colab e Excel.
 
+<img width="904" height="552" alt="image" src="https://github.com/user-attachments/assets/39b4287a-9f26-4436-9ef2-fe3ef80ef95b" />
 
-
+<img width="904" height="552" alt="image" src="https://github.com/user-attachments/assets/f8cd0a74-676f-40f3-9bb8-ef11d47dd482" />
 
 22/05/2026
 
 Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Google Colab e Excel, com a temática: "Consumo de Cerveja e Lucros com Sorvete em relação à Temperatura".
+
+<img width="904" height="552" alt="image" src="https://github.com/user-attachments/assets/d06c8504-dfb0-47c4-9454-06e5e43a35db" />
