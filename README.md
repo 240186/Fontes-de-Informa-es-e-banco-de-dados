@@ -53,3 +53,31 @@ A) Em qual ano e mês houve o menor saldo de movimentação? E o maior?
 2- Menor Saldo - Ano 2020 Mês 4
 <img width="711" height="399" alt="image" src="https://github.com/user-attachments/assets/5571cf72-2e30-4e97-b797-5da13abfbd69" />
 
+Kangle | Ice Cream
+
+14/05/2026
+
+- Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Excel.
+
+
+
+Kangle | Icre Cream Sales Temperature
+
+15/05/2026
+
+Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Google Colab.
+
+
+
+Kangle | Beer Consumption in São Paulo
+
+15/05/2026
+
+Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Google Colab e Excel.
+
+
+
+
+22/05/2026
+
+Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Google Colab e Excel, com a temática: "Consumo de Cerveja e Lucros com Sorvete em relação à Temperatura".
