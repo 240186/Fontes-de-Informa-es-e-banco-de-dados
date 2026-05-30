@@ -97,6 +97,8 @@ Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Go
 
 ## Prova de Informática
 
+<img width="958" height="599" alt="image" src="https://github.com/user-attachments/assets/d1f826e6-992a-4bb5-9c46-ff7b85b8e896" />
+
 
 
 
