@@ -94,3 +94,10 @@ Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Go
 Desenvolvimento de análise utilizando o banco de dados públicos "Kangle" no Google Colab e Excel, com a temática: "Consumo de Cerveja e Lucros com Sorvete em relação à Temperatura".
 
 <img width="904" height="552" alt="image" src="https://github.com/user-attachments/assets/d06c8504-dfb0-47c4-9454-06e5e43a35db" />
+
+## Prova de Informática
+
+
+
+
+
